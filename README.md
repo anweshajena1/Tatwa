@@ -6,9 +6,13 @@ This repository contains the UI design for "Tatwa," an e-commerce website specia
 ## Features
 
 Natural and organic aesthetic: The design incorporates natural elements and a clean aesthetic to reflect the brand's focus on natural skincare products.
+
 User-friendly navigation: The navigation is intuitive and easy to use, allowing customers to easily find the products they are looking for.
+
 Product information architecture: Product pages are designed to showcase product information clearly, including descriptions, ingredients, benefits, and usage instructions.
+
 High-quality product imagery: The design emphasizes high-quality product images to showcase the natural ingredients and visual appeal of the products.
+
 Responsive layout: The layout is responsive and adapts to different screen sizes, ensuring a seamless experience on desktops, mobiles, and tablets.
 
 
