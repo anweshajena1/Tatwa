@@ -11,5 +11,6 @@ Welcome to the official GitHub repository for the UI design of "Tatwa," an e-com
 - **Smooth Checkout Process:** Simplified cart and checkout flows to enhance user experience.
 - **Accessibility:** Designed with accessibility in mind to cater to all users.
 
-##Link to Figma
+## Link to Figma
+
 https://www.figma.com/design/dRIb6leCFe61xFa2vteOJ3/Untitled?node-id=0-1&t=HTkbH67g8jSjxnsq-1
